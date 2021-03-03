@@ -18,15 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alex Donisthorpe - Portfolio
+title: Alex Donisthorpe
+logo: /assets/images/logo.png
 email: alex.donisthorpe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Alex Donisthorpe - Games Programmer Portfolio - Unity, C#, C, C++,
+  Games Programmer Portfolio - Unity, C#, C, C++,
   Python, Bash
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alex.donisthorpe.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AlexDonisthorpe
 github_username:  AlexDonisthorpe
+repository: AlexDonisthorpe/AlexDonisthorpe.github.io
 
 # Build settings
 theme: jekyll-theme-minimal
