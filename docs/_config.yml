@@ -32,6 +32,8 @@ repository: AlexDonisthorpe/AlexDonisthorpe.github.io
 
 # Build settings
 theme: jekyll-theme-minimal
+future: true
+timezone: GMT
 plugins:
   - jekyll-feed
 
