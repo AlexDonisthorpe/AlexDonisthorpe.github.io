@@ -30,7 +30,7 @@ Additionally I have experience reverse engineering applications to find and expl
 
 I love to play games, not just make them!
 
-My favourite genres are action, adventure, platforming, massively multipler and e-sports.
+My favourite genres include action, adventure, platforming, massively multiplayer, RPG and e-sports.
 With that in mind, I'm usually found in some form of a raid group on an MMO (I'm currently enjoying **Final Fantasy XIV**'s savage difficulty raids)! Or deep in the competitive ranking systems of competitive games (although I usually end up playing **League of Legends**!).
 
 Outside of games though you'll find me enjoying countryside **hikes** and **walks** with my dog **Peanut**, or **training** him for said hikes!
