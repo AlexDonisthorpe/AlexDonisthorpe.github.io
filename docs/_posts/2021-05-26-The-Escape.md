@@ -10,6 +10,8 @@ tags: [puzzle, ue4, 3d, unreal, C++]
 
 "The Escape" was my first Unreal project that I set out to complete a minimal viable product for. I wanted a small project I could sink my teeth into, in order to learn the Unreal engine, having primarily focused most of my development time in the Unity engine. "The Escape" is a single player first-person puzzle game where the player needs to escape the ancient egyptian style tomb by solving the puzzles and revealing the way out.
 
+"The Escape" is available to play, [here](https://alixxir.itch.io/the-escape)!
+
 | Genre | Team Size | Project Duration | Engine |
 | :---- |:--------- | :----------- | :----- |
 | Puzzle | Solo | Two Weeks | Unreal/C++ |
